@@ -1,1 +1,1 @@
-# Diabetes-predictor
+# Diabetes-predictor project
